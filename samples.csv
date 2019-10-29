@@ -1,0 +1,105 @@
+sample_name,cell_type,treatment,antibody,description,collection,protocol,genome,data_source
+GSM3389599_A763C13_A350C18_MACS_ESTIMATION_narrow_peaks.narrowPeak_clean.bed,A673,NA,MYBL2,peaks called by MACS2,Musa,ChIPseq,hg19,GSE119971
+DNAmeth_RRBS_EWS-FLI1_High_rep1.bed,A673,NA,NA,NA,tomazou,DNAmeth,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+DNAmeth_RRBS_EWS-FLI1_High_rep2.bed,A673,NA,NA,NA,tomazou,DNAmeth,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+DNAmeth_RRBS_EWS-FLI1_Low_rep1.bed,A673,53h doxycycline,NA,NA,tomazou,DNAmeth,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K27ac_EWS-FLI1_High_rep1.bed,A673,NA,NA,ChIP-seq H3K27ac,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K27ac_EWS-FLI1_High_rep2.bed,A673,NA,NA,ChIP-seq H3K27ac,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K27ac_EWS-FLI1_Low_rep1.bed,A673,53h doxycycline,NA,ChIP-seq H3K27ac,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K27ac_EWS-FLI1_Low_rep2.bed,A673,53h doxycycline,NA,ChIP-seq H3K27ac,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K27me3_EWS-FLI1_High_rep1.bed,A673,NA,NA,ChIP-seq H3K27me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K27me3_EWS-FLI1_High_rep2.bed,A673,NA,NA,ChIP-seq H3K27me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K27me3_EWS-FLI1_Low_rep1.bed,A673,53h doxycycline,NA,ChIP-seq H3K27me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K27me3_EWS-FLI1_Low_rep2.bed,A673,53h doxycycline,NA,ChIP-seq H3K27me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K36me3_EWS-FLI1_High_rep1.bed,A673,NA,NA,ChIP-seq H3K36me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K36me3_EWS-FLI1_High_rep2.bed,A673,NA,NA,ChIP-seq H3K36me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K36me3_EWS-FLI1_Low_rep1.bed,A673,53h doxycycline,NA,ChIP-seq H3K36me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K36me3_EWS-FLI1_Low_rep2.bed,A673,53h doxycycline,NA,ChIP-seq H3K36me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K4me1_EWS-FLI1_High_rep1.bed,A673,NA,NA,ChIP-seq H3K4me1,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K4me1_EWS-FLI1_High_rep2.bed,A673,NA,NA,ChIP-seq H3K4me1,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K4me1_EWS-FLI1_Low_rep1.bed,A673,53h doxycycline,NA,ChIP-seq H3K4me1,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K4me1_EWS-FLI1_Low_rep2.bed,A673,53h doxycycline,NA,ChIP-seq H3K4me1,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K4me3_EWS-FLI1_High_rep1.bed,A673,NA,NA,ChIP-seq H3K4me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K4me3_EWS-FLI1_High_rep2.bed,A673,NA,NA,ChIP-seq H3K4me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K4me3_EWS-FLI1_Low_rep1.bed,A673,53h doxycycline,NA,ChIP-seq H3K4me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K4me3_EWS-FLI1_Low_rep2.bed,A673,53h doxycycline,NA,ChIP-seq H3K4me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K56ac_EWS-FLI1_High_rep1.bed,A673,NA,NA,ChIP-seq H3K56ac,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K56ac_EWS-FLI1_High_rep2.bed,A673,NA,NA,ChIP-seq H3K56ac,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K56ac_EWS-FLI1_Low_rep1.bed,A673,53h doxycycline,NA,ChIP-seq H3K56ac,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K56ac_EWS-FLI1_Low_rep2.bed,A673,53h doxycycline,NA,ChIP-seq H3K56ac,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K9me3_EWS-FLI1_High_rep1.bed,A673,NA,NA,ChIP-seq H3K9me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K9me3_EWS-FLI1_High_rep2.bed,A673,NA,NA,ChIP-seq H3K9me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K9me3_EWS-FLI1_Low_rep1.bed,A673,53h doxycycline,NA,ChIP-seq H3K9me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K9me3_EWS-FLI1_Low_rep2.bed,A673,53h doxycycline,NA,ChIP-seq H3K9me3,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+chipseq_macs2_A_673_Normal_Growth_FLI_1__A_673_Input_peaks.bed,A673,NA,NA,ChIP-seq EWS-FLI1 peaks,tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+dox_R1.bw.peaks.broad.bed,A673,doxycycline,NA,ATACseq,tomazou,ATACseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+dox_R1.bw.peaks.dips.bed,A673,doxycycline,NA,ATACseq,tomazou,ATACseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+dox_R2.bw.peaks.broad.bed,A673,doxycycline,NA,ATACseq,tomazou,ATACseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+dox_R2.bw.peaks.dips.bed,A673,doxycycline,NA,ATACseq,tomazou,ATACseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+untreated_R1.bw.peaks.broad.bed,A673,NA,NA,ATACseq,tomazou,ATACseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+untreated_R1.bw.peaks.dips.bed,A673,NA,NA,ATACseq,tomazou,ATACseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+untreated_R2.bw.peaks.broad.bed,A673,NA,NA,ATACseq,tomazou,ATACseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+untreated_R2.bw.peaks.dips.bed,A673,NA,NA,ATACseq,tomazou,ATACseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ENCFF542RLV.bed,SK-N-MC,NA,FOXP2,conservative IDR thresholded peaks;rep12,ENCODE,ChIPseq,hg19,ENCSR000BGB
+ENCFF398FBV.bed,SK-N-MC,NA,FOXP2,optimal IDR thresholded peaks;rep12,ENCODE,ChIPseq,hg19,ENCSR000BGB
+ENCFF954MNX.bed,SK-N-MC,NA,FOXP2,peaks and background as input for IDR;rep2,ENCODE,ChIPseq,hg19,ENCSR000BGB
+ENCFF718CML.bed,SK-N-MC,NA,FOXP2,peaks and background as input for IDR;rep12,ENCODE,ChIPseq,hg19,ENCSR000BGB
+ENCFF510WZL.bed,SK-N-MC,NA,FOXP2,peaks and background as input for IDR;rep1,ENCODE,ChIPseq,hg19,ENCSR000BGB
+ENCFF412ACC.bed,SK-N-MC,NA,POLR2AphosphoS5,peaks and background as input for IDR;rep12,ENCODE,ChIPseq,hg19,ENCSR000BGB
+ENCFF152JEO.bed,SK-N-MC,NA,POLR2AphosphoS5,peaks and background as input for IDR;rep1,ENCODE,ChIPseq,hg19,ENCSR000BGB
+ENCFF390NBA.bed,SK-N-MC,NA,POLR2AphosphoS5,peaks and background as input for IDR;rep2,ENCODE,ChIPseq,hg19,ENCSR000BGB
+ENCFF606TCO.bed,SK-N-MC,NA,POLR2AphosphoS5,optimal IDR thresholded peaks;rep12,ENCODE,ChIPseq,hg19,ENCSR000BGB
+ENCFF853WQL.bed,SK-N-MC,NA,POLR2AphosphoS5,conservative IDR thresholded peaks;rep12,ENCODE,ChIPseq,hg19,ENCSR000BGB
+ENCFF758NBC.bed,SK-N-MC,NA,H3K4me3,peaks;rep2,ENCODE,ChIPseq,hg19,ENCSR000BGB
+ENCFF982ERU.bed,SK-N-MC,NA,H3K4me3,replicated peaks;rep12,ENCODE,ChIPseq,hg19,ENCSR000BGB
+ENCFF839RWS.bed,SK-N-MC,NA,H3K4me3,peaks;rep12,ENCODE,ChIPseq,hg19,ENCSR000BGB
+ENCFF557ZZJ.bed,SK-N-MC,NA,H3K4me3,peaks;rep1,ENCODE,ChIPseq,hg19,ENCSR000BGB
+ENCFF001TQX.bed,SK-N-MC,NA,NA,This assay uses SK-N-MC cell line which was previously described as a neuroepithelioma (ATCC HTB-10). However recent evidence reveals it is Ewing's Sarcoma (www.ncbi.nlm.nih.gov/pubmed/15548687,ENCODE,RRBS,hg19,ENCSR000BGB
+ENCFF001TQY.bed,SK-N-MC,NA,NA,This assay uses SK-N-MC cell line which was previously described as a neuroepithelioma (ATCC HTB-10). However recent evidence reveals it is Ewing's Sarcoma (www.ncbi.nlm.nih.gov/pubmed/15548687,ENCODE,RRBS,hg19,ENCSR000BGB
+GSM2436676_BSF_0184_C880KACXX_7_FLI1_SI_no_dox_rep1_peaks.bed,A673,NA,Fli1,NA,Katschnig,ChIPseq,hg19,GSE92738
+GSM2436677_BSF_0184_C880KACXX_7_FLI1_SI_no_dox_rep2_peaks.bed,A673,NA,Fli1,NA,Katschnig,ChIPseq,hg19,GSE92738
+GSM2436678_35679_CGATGT_C89YLANXX_8_20160113B_20160113_peaks.bed,A673,NA,SRF G20 ,NA,Katschnig,ChIPseq,hg19,GSE92738
+GSM2436679_35683_CAGATC_C89YLANXX_8_20160113B_20160113_peaks.bed,A673,NA, SRF G20,NA,Katschnig,ChIPseq,hg19,GSE92738
+GSM2436680_BSF_0184_C880KACXX_6_MKL_1_SI_no_dox_rep1_peaks.bed,A673,NA,MKL-1,NA,Katschnig,ChIPseq,hg19,GSE92738
+GSM2436681_BSF_0184_C880KACXX_6_MKL_1_SI_no_dox_rep2_peaks.bed,A673,NA,MKL-1,NA,Katschnig,ChIPseq,hg19,GSE92738
+GSM2436682_35688_TTAGGC_C86NMANXX_8_20160119B_20160119_peaks.bed,A673,NA,MKL-2 A302-767A,NA,Katschnig,ChIPseq,hg19,GSE92738
+GSM2436683_35692_CAGATC_C86NMANXX_8_20160119B_20160119_peaks.bed,A673,NA,MKL-2 A302-767A ,NA,Katschnig,ChIPseq,hg19,GSE92738
+GSM2436684_35689_TGACCA_C86NMANXX_8_20160119B_20160119_peaks.bed,A673,doxycycline induction 48h,MKL-2 A302-767A,NA,Katschnig,ChIPseq,hg19,GSE92738
+GSM2436685_35693_ACTTGA_C86NMANXX_8_20160119B_20160119_peaks.bed,A673,doxycycline 48h,MKL-2 A302-767A,NA,Katschnig,ChIPseq,hg19,GSE92738
+GSM2907178_ES49-Flag_EF_peaks.bed,ES49,NA,FLAG,NA,Shimizu,ChIPseq,mm9,GSE108631
+GSM2907179_ES49-H3K27Ac_peaks.bed,ES49,NA,H3K27Ac,NA,Shimizu,ChIPseq,mm9,GSE108631
+GSM2907180_ES49-H3K27Me3_peaks.bed,ES49,NA,H3K27me3,NA,Shimizu,ChIPseq,mm9,GSE108631
+GSM2907181_ES48-Flag_EF_peaks.bed,ES48,NA,FLAG,NA,Shimizu,ChIPseq,mm9,GSE108631
+GSM2907182_ES48-H3K27Ac_peaks.bed,ES48,NA,H3K27Ac,NA,Shimizu,ChIPseq,mm9,GSE108631
+GSM2327769_TC32_RNAp2_ChIP_peaks.bed,TC32,DMSO,RNA Polymerase II,NA,Gorthi,ChIPseq,hg19,GSE87324
+GSM2327770_TC32_etop_RNAp2_ChIP_peaks.bed,TC32,Etoposide,RNA Polymerase II,treatment agent: 0.05μM Etoposide for 6 ours,Gorthi,ChIPseq,hg19,GSE87324
+GSM2327771_TC32_BRCA1_ChIP_2nd_peaks.bed,TC32,DMSO,BRCA1,NA,Gorthi,ChIPseq,hg19,GSE87324
+GSM2327772_TC32_etop_BRCA1_ChIP_peaks.bed,TC32,Etoposide,BRCA1,treatment agent: 0.05μM Etoposide for 6 ours,Gorthi,ChIPseq,hg19,GSE87324
+GSM2327775_EWS502_cntl_RNAp2_ChIP_peaks.bed,EWS502,DMSO,RNA Polymerase II,NA,Gorthi,ChIPseq,hg19,GSE87324
+GSM2327776_EWS502_etop_RNAp2_ChIP_peaks.bed,EWS502,Etoposide,RNA Polymerase II,treatment agent: 0.05μM Etoposide for 6 ours,Gorthi,ChIPseq,hg19,GSE87324
+GSM2327777_EWS502_cntl_BRCA1_ChIP_peaks.bed,EWS502,DMSO,BRCA1,NA,Gorthi,ChIPseq,hg19,GSE87324
+GSM2327778_EWS502_etop_BRCA1_ChIP_peaks.bed,EWS502,Etoposide,BRCA1,treatment agent: 0.05μM Etoposide for 6 ours,Gorthi,ChIPseq,hg19,GSE87324
+GSM2327781_IMR90_cntl_RNAp2_ChIP_peaks.bed,IMR90,DMSO,RNA Polymerase II,NA,Gorthi,ChIPseq,hg19,GSE87324
+GSM2327782_IMR90_etop_RNAp2_ChIP_peaks.bed,IMR90,Etoposide,RNA Polymerase II,treatment agent: 0.05μM Etoposide for 6 ours,Gorthi,ChIPseq,hg19,GSE87324
+GSM2327783_IMR90_cntl_BRCA1_ChIP_peaks.bed,IMR90,DMSO,BRCA1,NA,Gorthi,ChIPseq,hg19,GSE87324
+GSM2327784_IMR90_etop_BRCA1_ChIP_peaks.bed,IMR90,Etoposide,BRCA1,treatment agent: 0.05μM Etoposide for 6 ours,Gorthi,ChIPseq,hg19,GSE87324
+GSM2327787_U2OS_RNAp2_ChIP_peaks.bed,U2OS,DMSO,RNA Polymerase II,NA,Gorthi,ChIPseq,hg19,GSE87324
+GSM2327788_U2OS_etop_RNAp2_ChIP_peaks.bed,IMR90,Etoposide,RNA Polymerase II,treatment agent: 0.05μM Etoposide for 6 ours,Gorthi,ChIPseq,hg19,GSE87324
+GSM2327789_U2OS_BRCA1_ChIP_peaks.bed,IMR90,DMSO,BRCA1,NA,Gorthi,ChIPseq,hg19,GSE87324
+GSM2327790_U2OS_etop_BRCA1_ChIP_peaks.bed,IMR90,Etoposide,BRCA1,treatment agent: 0.05μM Etoposide for 6 ours,Gorthi,ChIPseq,hg19,GSE87324
+GSM2690570_TC32_RNAp2_ChIP_peaks.bed,TC32,DMSO,RNA Polymerase II,NA,Gorthi,ChIPseq,hg19,GSE87324
+GSM2690571_U2OS_RNAp2_ChIP_peaks.bed,U2OS,DMSO,RNA Polymerase II,NA,Gorthi,ChIPseq,hg19,GSE87324
+ENCFF085CNS.bed,SK-N-MC,NA,FOXP2,conservative IDR thresholded peaks;rep12,ENCODE,ChIPseq,hg38,ENCSR000BGB
+ENCFF385ZTD.bed,SK-N-MC,NA,FOXP2,optimal IDR thresholded peaks;rep12,ENCODE,ChIPseq,hg38,ENCSR000BGB
+ENCFF423LGE.bed,SK-N-MC,NA,FOXP2,peaks and background as input for IDR;rep2,ENCODE,ChIPseq,hg38,ENCSR000BGB
+ENCFF528VUJ.bed,SK-N-MC,NA,FOXP2,peaks and background as input for IDR;rep12,ENCODE,ChIPseq,hg38,ENCSR000BGB
+ENCFF579YOW.bed,SK-N-MC,NA,FOXP2,peaks and background as input for IDR;rep1,ENCODE,ChIPseq,hg38,ENCSR000BGB
+ENCFF065CIY.bed,SK-N-MC,NA,POLR2AphosphoS5,peaks and background as input for IDR;rep12,ENCODE,ChIPseq,hg38,ENCSR000BGB
+ENCFF110ALL.bed,SK-N-MC,NA,POLR2AphosphoS5,peaks and background as input for IDR;rep1,ENCODE,ChIPseq,hg38,ENCSR000BGB
+ENCFF639DZB.bed,SK-N-MC,NA,POLR2AphosphoS5,peaks and background as input for IDR;rep2,ENCODE,ChIPseq,hg38,ENCSR000BGB
+ENCFF929WYQ.bed,SK-N-MC,NA,POLR2AphosphoS5,optimal IDR thresholded peaks;rep12,ENCODE,ChIPseq,hg38,ENCSR000BGB
+ENCFF992GIC.bed,SK-N-MC,NA,POLR2AphosphoS5,conservative IDR thresholded peaks;rep12,ENCODE,ChIPseq,hg38,ENCSR000BGB
+ENCFF300EWV.bed,SK-N-MC,NA,H3K4me3,peaks;rep2,ENCODE,ChIPseq,hg38,ENCSR000BGB
+ENCFF580OUF.bed,SK-N-MC,NA,H3K4me3,replicated peaks;rep12,ENCODE,ChIPseq,hg38,ENCSR000BGB
+ENCFF883SKY.bed,SK-N-MC,NA,H3K4me3,peaks;rep12,ENCODE,ChIPseq,hg38,ENCSR000BGB
+ENCFF889QNK.bed,SK-N-MC,NA,H3K4me3,peaks;rep1,ENCODE,ChIPseq,hg38,ENCSR000BGB

@@ -1,0 +1,39 @@
+metadata:
+  sample_table: samples.csv
+  output_dir: $HOME
+
+constant_attributes:
+  file_path: "src"
+
+implied_attributes:
+  genome:
+    hg38:
+      organism: "human"
+    hg19:
+      organism: "human"
+    mm9:
+      organism: "mouse"
+    mm10:
+      organism: "human"
+  cell_line:
+    A673:
+      tissue: "muscle"
+    SK-N-MC:
+      tissue: "brain"
+    ES49:
+      tissue: "NA"
+    ES48:
+      tissue: "NA"
+    TC32:
+      tissue: "bone"
+    EWS502:
+      tissue: "bone"
+    IMR90:
+      tissue: "lung"
+    U2OS:
+      tissue: "bone"
+
+
+derived_attributes: [file_path]
+data_sources: 
+  src: $PROJECT/resources/regions/LOLAEwS/{genome}/{collection}/{protocol}/regions/{sample_name}
