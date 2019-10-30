@@ -11,6 +11,8 @@ implied_attributes:
       organism: "human"
     hg19:
       organism: "human"
+    hg18:
+      organism: "human"
     mm9:
       organism: "mouse"
     mm10:
@@ -32,6 +34,8 @@ implied_attributes:
       tissue: "lung"
     U2OS:
       tissue: "bone"
+    C2C12:
+      tissue: "myoblast"
 
 
 derived_attributes: [file_path]
