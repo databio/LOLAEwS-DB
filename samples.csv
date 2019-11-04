@@ -15,10 +15,10 @@ ChIP_H3K36me3_EWS-FLI1_High_rep1.bed.gz,A673,NA,NA,ChIP-seq H3K36me3,Tomazou,ChI
 ChIP_H3K36me3_EWS-FLI1_High_rep2.bed.gz,A673,NA,NA,ChIP-seq H3K36me3,Tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
 ChIP_H3K36me3_EWS-FLI1_Low_rep1.bed.gz,A673,53h doxycycline,NA,ChIP-seq H3K36me3,Tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
 ChIP_H3K36me3_EWS-FLI1_Low_rep2.bed.gz,A673,53h doxycycline,NA,ChIP-seq H3K36me3,Tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
-ChIP_H3K4me1_EWS-FLI1_High_rep1.bed.gz,A673,NA,NA,ChIP-seq H3K4me1,Tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
-ChIP_H3K4me1_EWS-FLI1_High_rep2.bed.gz,A673,NA,NA,ChIP-seq H3K4me1,Tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
-ChIP_H3K4me1_EWS-FLI1_Low_rep1.bed.gz,A673,53h doxycycline,NA,ChIP-seq H3K4me1,Tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
-ChIP_H3K4me1_EWS-FLI1_Low_rep2.bed.gz,A673,53h doxycycline,NA,ChIP-seq H3K4me1,Tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K4me_EWS-FLI1_High_rep1.bed.gz,A673,NA,NA,ChIP-seq H3K4me,Tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K4me_EWS-FLI1_High_rep2.bed.gz,A673,NA,NA,ChIP-seq H3K4me,Tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K4me_EWS-FLI1_Low_rep1.bed.gz,A673,53h doxycycline,NA,ChIP-seq H3K4me,Tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
+ChIP_H3K4me_EWS-FLI1_Low_rep2.bed.gz,A673,53h doxycycline,NA,ChIP-seq H3K4me,Tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
 ChIP_H3K4me3_EWS-FLI1_High_rep1.bed.gz,A673,NA,NA,ChIP-seq H3K4me3,Tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
 ChIP_H3K4me3_EWS-FLI1_High_rep2.bed.gz,A673,NA,NA,ChIP-seq H3K4me3,Tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
 ChIP_H3K4me3_EWS-FLI1_Low_rep1.bed.gz,A673,53h doxycycline,NA,ChIP-seq H3K4me3,Tomazou,ChIPseq,hg19,http://www.medical-epigenomics.org/papers/tomazou2015/
@@ -136,10 +136,10 @@ GSM2104134_MSC_H3K9AcVeh_rep1.peaks.bed.gz,MSC,vehicle,H3K9Ac,NA,Meyer,ChIPseq,m
 GSM2104135_MSC_H3K9AcVeh_rep2.peaks.bed.gz,MSC,vehicle,H3K9Ac,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104136_MSC_H3K9Ac125_rep1.peaks.bed.gz,MSC,1.25(OH)2D3,H3K9Ac,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104137_MSC_H3K9Ac125_rep2.peaks.bed.gz,MSC,1.25(OH)2D3,H3K9Ac,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104138_MSC_H3K4me1Veh_rep1.peaks.bed.gz,MSC,vehicle,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104139_MSC_H3K4me1Veh_rep2.peaks.bed.gz,MSC,vehicle,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104140_MSC_H3K4me1125_rep1.peaks.bed.gz,MSC,1.25(OH)2D3,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104141_MSC_H3K4me1125_rep2.peaks.bed.gz,MSC,1.25(OH)2D3,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104138_MSC_H3K4meVeh_rep1.peaks.bed.gz,MSC,vehicle,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104139_MSC_H3K4meVeh_rep2.peaks.bed.gz,MSC,vehicle,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104140_MSC_H3K4me125_rep1.peaks.bed.gz,MSC,1.25(OH)2D3,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104141_MSC_H3K4me125_rep2.peaks.bed.gz,MSC,1.25(OH)2D3,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104142_MSC_H3K4me3Veh_rep1.peaks.bed.gz,MSC,vehicle,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104143_MSC_H3K4me3Veh_rep2.peaks.bed.gz,MSC,vehicle,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104144_MSC_H3K4me3125_rep1.peaks.bed.gz,MSC,1.25(OH)2D3,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
@@ -172,10 +172,10 @@ GSM2104170_MSCB7_H3K9AcVeh_rep1.peaks.bed.gz,MSCB7,vehicle,H3K9Ac,NA,Meyer,ChIPs
 GSM2104171_MSCB7_H3K9AcVeh_rep2.peaks.bed.gz,MSCB7,vehicle,H3K9Ac,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104172_MSCB7_H3K9Ac125_rep1.peaks.bed.gz,MSCB7,1.25(OH)2D3,H3K9Ac,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104173_MSCB7_H3K9Ac125_rep2.peaks.bed.gz,MSCB7,1.25(OH)2D3,H3K9Ac,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104174_MSCB7_H3K4me1Veh_rep1.peaks.bed.gz,MSCB7,vehicle,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104175_MSCB7_H3K4me1Veh_rep2.peaks.bed.gz,MSCB7,vehicle,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104176_MSCB7_H3K4me1125_rep1.peaks.bed.gz,MSCB7,1.25(OH)2D3,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104177_MSCB7_H3K4me1125_rep2.peaks.bed.gz,MSCB7,1.25(OH)2D3,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104174_MSCB7_H3K4meVeh_rep1.peaks.bed.gz,MSCB7,vehicle,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104175_MSCB7_H3K4meVeh_rep2.peaks.bed.gz,MSCB7,vehicle,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104176_MSCB7_H3K4me125_rep1.peaks.bed.gz,MSCB7,1.25(OH)2D3,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104177_MSCB7_H3K4me125_rep2.peaks.bed.gz,MSCB7,1.25(OH)2D3,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104178_MSCB7_H3K4me3Veh_rep1.peaks.bed.gz,MSCB7,vehicle,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104179_MSCB7_H3K4me3Veh_rep2.peaks.bed.gz,MSCB7,vehicle,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104180_MSCB7_H3K4me3125_rep1.peaks.bed.gz,MSCB7,1.25(OH)2D3,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
@@ -204,12 +204,12 @@ GSM2104202_MSCB15_H3K9AcVeh_rep1.peaks.bed.gz,MSCB15,vehicle,H4K5Ac,NA,Meyer,ChI
 GSM2104203_MSCB15_H3K9AcVeh_rep2.peaks.bed.gz,MSCB15,vehicle,H4K5Ac,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104204_MSCB15_H3K9Ac125_rep1.peaks.bed.gz,MSCB15,1.25(OH)2D3,H3K9Ac,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104205_MSCB15_H3K9Ac125_rep2.peaks.bed.gz,MSCB15,1.25(OH)2D3,H3K9Ac,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104206_MSCB15_H3K4me1Veh_rep1.peaks.bed.gz,MSCB15,vehicle,H3K9Ac,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104207_MSCB15_H3K4me1Veh_rep2.peaks.bed.gz,MSCB15,vehicle,H3K9Ac,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104208_MSCB15_H3K4me1125_rep1.peaks.bed.gz,MSCB15,1.25(OH)2D3,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104209_MSCB15_H3K4me1125_rep2.peaks.bed.gz,MSCB15,1.25(OH)2D3,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104210_MSCB15_H3K4me3Veh_rep1.peaks.bed.gz,MSCB15,vehicle,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104211_MSCB15_H3K4me3Veh_rep2.peaks.bed.gz,MSCB15,vehicle,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104206_MSCB15_H3K4meVeh_rep1.peaks.bed.gz,MSCB15,vehicle,H3K9Ac,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104207_MSCB15_H3K4meVeh_rep2.peaks.bed.gz,MSCB15,vehicle,H3K9Ac,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104208_MSCB15_H3K4me125_rep1.peaks.bed.gz,MSCB15,1.25(OH)2D3,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104209_MSCB15_H3K4me125_rep2.peaks.bed.gz,MSCB15,1.25(OH)2D3,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104210_MSCB15_H3K4me3Veh_rep1.peaks.bed.gz,MSCB15,vehicle,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104211_MSCB15_H3K4me3Veh_rep2.peaks.bed.gz,MSCB15,vehicle,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104212_MSCB15_H3K4me3125_rep1.peaks.bed.gz,MSCB15,1.25(OH)2D3,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104213_MSCB15_H3K4me3125_rep2.peaks.bed.gz,MSCB15,1.25(OH)2D3,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104214_MSCB15_H3K36me3Veh_rep1.peaks.bed.gz,MSCB15,vehicle,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
@@ -240,10 +240,10 @@ GSM2104238_MSCF7_H3K9AcVeh_rep1.peaks.bed.gz,MSCF7,vehicle,H3K9Ac,NA,Meyer,ChIPs
 GSM2104239_MSCF7_H3K9AcVeh_rep2.peaks.bed.gz,MSCF7,vehicle,H3K9Ac,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104240_MSCF7_H3K9Ac125_rep1.peaks.bed.gz,MSCF7,1.25(OH)2D3,H3K9Ac,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104241_MSCF7_H3K9Ac125_rep2.peaks.bed.gz,MSCF7,1.25(OH)2D3,H3K9Ac,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104242_MSCF7_H3K4me1Veh_rep1.peaks.bed.gz,MSCF7,vehicle,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104243_MSCF7_H3K4me1Veh_rep2.peaks.bed.gz,MSCF7,vehicle,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104244_MSCF7_H3K4me1125_rep1.peaks.bed.gz,MSCF7,1.25(OH)2D3,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
-GSM2104245_MSCF7_H3K4me1125_rep2.peaks.bed.gz,MSCF7,1.25(OH)2D3,H3K4me1,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104242_MSCF7_H3K4meVeh_rep1.peaks.bed.gz,MSCF7,vehicle,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104243_MSCF7_H3K4meVeh_rep2.peaks.bed.gz,MSCF7,vehicle,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104244_MSCF7_H3K4me125_rep1.peaks.bed.gz,MSCF7,1.25(OH)2D3,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
+GSM2104245_MSCF7_H3K4me125_rep2.peaks.bed.gz,MSCF7,1.25(OH)2D3,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104246_MSCF7_H3K4me3Veh_rep1.peaks.bed.gz,MSCF7,vehicle,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104247_MSCF7_H3K4me3Veh_rep2.peaks.bed.gz,MSCF7,vehicle,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104248_MSCF7_H3K4me3125_rep1.peaks.bed.gz,MSCF7,1.25(OH)2D3,H3K4me,NA,Meyer,ChIPseq,mm9,GSE79813
@@ -253,3 +253,25 @@ GSM2104251_MSCF7_H3K36me3Veh_rep2.peaks.bed.gz,MSCF7,vehicle,H3K36me3,NA,Meyer,C
 GSM2104252_MSCF7_H3K36me3125_rep1.peaks.bed.gz,MSCF7,1.25(OH)2D3,H3K36me3,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM2104253_MSCF7_H3K36me3125_rep2.peaks.bed.gz,MSCF7,1.25(OH)2D3,H3K36me3,NA,Meyer,ChIPseq,mm9,GSE79813
 GSM1874186_MACSresult-SCOS_2_EWS-FLI1-HA_input_peaks.bed.gz,SCOS,doxocycline,anti-HA,Dox (2ug/ml) 72hours,Komura,ChIPseq,mm9,GSE72897
+GSE70474_ATAC_peaks.bed.gz,NA,NA,NA,the union of all peaks called on individual files,Latil,ATACseq,mm10,GSE70474
+GSM1684634_CEBPb.HDD0.peaks.bed.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",CEBPb,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSM1684635_CEBPb.HDDMI.bed.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",CEBPb,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSM1684636_CEBPb.LDDMI.bed.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",CEBPb,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSM1684637_GR.HDDMI.bed.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",GR,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSM1684638_ATF4.HDD0.bed.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",ATF4,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSM1684639_H3K27Ac.HDD0.bedgraph.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",H3K27Ac,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSM1684640_IVC.CEBPb.0.1uL.bed.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",CEBPb,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSM1684641_IVC.CEBPb.0.25uL.bed.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",CEBPb,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSM1684642_IVC.CEBPb.1.0uL.bed.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",CEBPb,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSM1684643_IVC.CEBPb.10uL.bed.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",CEBPb,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSM1684644_IVC.ATF4.5uL.bed.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",ATF4,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSM1684645_IVC.CEBPb.0.1uL.ATF4.0.002uL.bed.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",CEBPb,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSM1684646_IVC.CEBPb.0.1uL.ATF4.0.02uL.bed.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",CEBPb,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSM1684647_IVC.CEBPb.0.1uL.ATF4.0.2uL.bed.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",CEBPb,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSM1684648_IVC.ATF4.0.02uL.cebpb.0.1.bed.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",ATF4,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSM1684649_IVC.ATF4.0.2uL.cebpb.0.1.bed.gz,MSC,"DMI adipogenic induction medium for 24 hours (RNAPII) or 6 hrs (CEBPb, GR)",ATF4,MSCs cultured at high or low cell seeding densities in the presence or absence of adipogenic induction cocktail,Cohen,ChIPseq,hg19,GSE68864
+GSE48544_Sample_clone_4L.1.4_peaks_FDR5.bed.gz,MSC,NA,H3K4me,Fate changes leading to multipotency of isolated mesenchymal cells,Massalha,ChIPseq,mm9,GSE48544
+GSE48544_Sample_MSC21_peaks_FDR5.bed.gz,MSC,NA,H3K4me,Fate changes leading to multipotency of isolated mesenchymal cells,Massalha,ChIPseq,mm9,GSE48544
+GSM2356779_cFos_peaks.bed.gz,MSC,NA,cFos,profile cFos binding sites in an p53 knockout mouse bone marrow-derived stem cells,He,ChIPseq,mm9,GSE88986
+GSM1079817_NR6A1_DicerWT_r1.bed.gz,MSC,NA,HA,Examination of genes directly bound by Flag-HA-NR6A1 in Dicer WT,Ravi,ChIPseq,mm9,GSE44160
+GSM1079818_NR6A1_DicerWT_r2.bed.gz,MSC,NA,HA,Examination of genes directly bound by Flag-HA-NR6A1 in Dicer WT,Ravi,ChIPseq,mm9,GSE44160
