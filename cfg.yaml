@@ -40,4 +40,4 @@ implied_attributes:
 
 derived_attributes: [file_path]
 data_sources: 
-  src: $PROJECT/resources/regions/LOLAEwS/{genome}/{collection}/{protocol}/regions/{sample_name}
+  src: $PROJECT/resources/regions/LOLAEwS/{genome}/{collection}/{protocol}/regions/{file_name}
