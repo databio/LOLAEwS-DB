@@ -277,3 +277,7 @@ GSM1079817_NR6A1_DicerWT_r1.bed.gz,MSC,NA,HA,Examination of genes directly bound
 GSM1079818_NR6A1_DicerWT_r2.bed.gz,MSC,NA,HA,Examination of genes directly bound by Flag-HA-NR6A1 in Dicer WT,Ravi,ChIPseq,mm9,GSE44160
 GSM1167163_EWS_rep1_halfopen.bed.gz,HeLa,NA,EWS,Regulation of FAS Exon Definition and Apoptosis by the Ewing Sarcoma Protein,Paronetto,CLIPseq,hg18,GSE48065
 GSM1167164_EWS_rep2_halfopen.bed.gz,HeLa,NA,EWS,Regulation of FAS Exon Definition and Apoptosis by the Ewing Sarcoma Protein,Paronetto,CLIPseq,hg18,GSE48065
+GSE116558_A_MSC.no_gcnorm_peaks.atacseq.narrowPeak.gz,MSC,NA,NA,ATAC-seq analysis on mesenchymal stem cells,Ho,ATACseq,mm10,GSE116558
+GSE116558_fBM_MSC.no_gcnorm_peaks.atacseq.narrowPeak.gz,MSC,NA,NA,ATAC-seq analysis on mesenchymal stem cells,Ho,ATACseq,mm10,GSE116558
+GSE116558_P_MSC.no_gcnorm_peaks.atacseq.narrowPeak.gz,MSC,NA,NA,ATAC-seq analysis on mesenchymal stem cells,Ho,ATACseq,mm10,GSE116558
+GSE116558_vBM_MSC.no_gcnorm_peaks.atacseq.narrowPeak.gz,MSC,NA,NA,ATAC-seq analysis on mesenchymal stem cells,Ho,ATACseq,mm10,GSE116558
