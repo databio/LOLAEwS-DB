@@ -38,6 +38,7 @@ implied_attributes:
       tissue: "myoblast"
 
 
-derived_attributes: [file_path]
+derived_attributes: [file_name, file_path]
 data_sources: 
-  src: $PROJECT/resources/regions/LOLAEwS/{genome}/{collection}/{protocol}/regions/{file_name}
+  src: "$PROJECT/resources/regions/LOLAEwS/{genome}/{collection}/{exp_protocol}/regions/{file_name}"
+  target_file_name: "{ori_file_name}.bed"
