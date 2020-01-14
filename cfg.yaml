@@ -1,9 +1,12 @@
 metadata:
   sample_table: samples.csv
   output_dir: $HOME
+  pipeline_interfaces: $CODE/bed_maker/pipeline_interface.yaml
 
 constant_attributes:
-  file_path: "src"
+  input_file_path: "src"
+  output_file_path: "tgt"
+  chip_exp: FALSE
 
 implied_attributes:
   genome:
@@ -16,7 +19,7 @@ implied_attributes:
     mm9:
       organism: "mouse"
     mm10:
-      organism: "human"
+      organism: "mouse"
   cell_line:
     A673:
       tissue: "muscle"
@@ -36,9 +39,12 @@ implied_attributes:
       tissue: "bone"
     C2C12:
       tissue: "myoblast"
+  exp_protocol:
+    ChIPseq:
+      chip_exp:
+        TRUE
 
-
-derived_attributes: [file_name, file_path]
+derived_attributes: [input_file_path, output_file_path]
 data_sources: 
   src: "$PROJECT/resources/regions/LOLAEwS/{genome}/{collection}/{exp_protocol}/regions/{file_name}"
-  target_file_name: "{ori_file_name}.bed"
+  tgt: "$PROJECT/resources/regions/LOLAEwS/{genome}/bedmaker_output/{sample_name}.bed"

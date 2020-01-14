@@ -1,6 +1,13 @@
-description: LOLA-EwS-DB PEP schema
+description: LOLAEwS-DB PEP schema
 
 properties:
+  metadata:
+    type: object
+    properties:
+      pipeline_interfaces:
+        type: array
+    required:
+      - pipeline_interfaces
   samples:
     type: array
     items:
@@ -11,10 +18,10 @@ properties:
           description: "name of the sample, which is the name of the output BED file"
         input_file_path: 
           type: string
-          description: "absolute path the file to convert"
+          description: "absolute path to the file to convert"
         output_file_path: 
           type: string
-          description: "absolute path the file to the output BED file (derived attribute)"
+          description: "absolute path to the output BED file (derived attribute)"
         genome:
           type: string
           description: "organism genome code"
@@ -31,7 +38,7 @@ properties:
           description: "cell type code"
         antibody:
           type: string
-          description: "antibody used if ChIP-seq experiment"
+          description: "antibody used (if ChIP-seq experiment)"
         description:
           type: string
           description: "freeform description of the sample"
@@ -44,6 +51,9 @@ properties:
         treatment:
           type: string
           description: "freeform description of the sample treatment"
+        tissue:
+          type: string
+          description: "tissue name"
       required:
         - input_file_path
         - output_file_path
@@ -52,3 +62,5 @@ properties:
         - sample_name
 required:
   - samples
+  - metadata
+
