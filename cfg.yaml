@@ -6,6 +6,7 @@ metadata:
 constant_attributes:
   input_file_path: "src"
   output_file_path: "tgt"
+  narrowpeak: TRUE
 
 implied_attributes:
   genome:
@@ -66,8 +67,6 @@ implied_attributes:
     H3K9ac:
       narrowpeak:
         FALSE
-
-
 
 
 derived_attributes: [input_file_path, output_file_path]
