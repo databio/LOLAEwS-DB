@@ -6,7 +6,6 @@ metadata:
 constant_attributes:
   input_file_path: "src"
   output_file_path: "tgt"
-  chip_exp: FALSE
 
 implied_attributes:
   genome:
@@ -39,10 +38,37 @@ implied_attributes:
       tissue: "bone"
     C2C12:
       tissue: "myoblast"
-  exp_protocol:
-    ChIPseq:
-      chip_exp:
-        TRUE
+  antibody:
+    H3K4me3:
+      narrowpeak:
+        FALSE
+    H3K27me3:
+      narrowpeak:
+        FALSE
+    H3K27ac:
+      narrowpeak:
+        FALSE
+    H3K9ac:
+      narrowpeak:
+        FALSE
+    H4K5ac:
+      narrowpeak:
+        FALSE
+    H3K4me:
+      narrowpeak:
+        FALSE
+    H3K36me3:
+      narrowpeak:
+        FALSE
+    H4K5ac:
+      narrowpeak:
+        FALSE
+    H3K9ac:
+      narrowpeak:
+        FALSE
+
+
+
 
 derived_attributes: [input_file_path, output_file_path]
 data_sources: 
