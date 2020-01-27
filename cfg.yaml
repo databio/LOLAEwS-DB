@@ -7,6 +7,7 @@ constant_attributes:
   input_file_path: "src"
   output_file_path: "tgt"
   narrowpeak: TRUE
+  protocol: "make_bed"
 
 implied_attributes:
   genome:
