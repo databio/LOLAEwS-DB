@@ -1,7 +1,7 @@
 metadata:
   sample_table: samples.csv
   output_dir: $HOME
-  pipeline_interfaces: $CODE/bed_maker/pipeline_interface.yaml
+  pipeline_interfaces: $CODE/bedmaker/pipeline_interface.yaml
 
 constant_attributes:
   input_file_path: "src"
