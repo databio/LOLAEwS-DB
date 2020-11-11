@@ -1,76 +1,54 @@
-metadata:
-  sample_table: samples.csv
+pep_version: 2.0.0
+sample_table: samples.csv
+looper:
   output_dir: $HOME
-  pipeline_interfaces: $CODE/bedmaker/pipeline_interface.yaml
 
-constant_attributes:
-  input_file_path: "src"
-  output_file_path: "tgt"
-  narrowpeak: TRUE
-  protocol: "make_bed"
-
-implied_attributes:
-  genome:
-    hg38:
-      organism: "human"
-    hg19:
-      organism: "human"
-    hg18:
-      organism: "human"
-    mm9:
-      organism: "mouse"
-    mm10:
-      organism: "mouse"
-  cell_line:
-    A673:
-      tissue: "muscle"
-    SK-N-MC:
-      tissue: "brain"
-    ES49:
-      tissue: "NA"
-    ES48:
-      tissue: "NA"
-    TC32:
-      tissue: "bone"
-    EWS502:
-      tissue: "bone"
-    IMR90:
-      tissue: "lung"
-    U2OS:
-      tissue: "bone"
-    C2C12:
-      tissue: "myoblast"
-  antibody:
-    H3K4me3:
-      narrowpeak:
-        FALSE
-    H3K27me3:
-      narrowpeak:
-        FALSE
-    H3K27ac:
-      narrowpeak:
-        FALSE
-    H3K9ac:
-      narrowpeak:
-        FALSE
-    H4K5ac:
-      narrowpeak:
-        FALSE
-    H3K4me:
-      narrowpeak:
-        FALSE
-    H3K36me3:
-      narrowpeak:
-        FALSE
-    H4K5ac:
-      narrowpeak:
-        FALSE
-    H3K9ac:
-      narrowpeak:
-        FALSE
-
-
-derived_attributes: [input_file_path, output_file_path]
-data_sources: 
-  src: "$PROJECT/resources/regions/LOLAEwS/{genome}/{collection}/{exp_protocol}/regions/{file_name}"
-  tgt: "$PROJECT/resources/regions/LOLAEwS/{genome}/bedmaker_output/{sample_name}.bed"
+sample_modifiers:
+  append:
+    pipeline_interfaces: $CODE/bedmaker/pipeline_interface.yaml
+    input_file_path: "src"
+    output_file_path: "tgt"
+    narrowpeak: TRUE
+    protocol: "make_bed"
+  derive: 
+    attributes: [input_file_path, output_file_path]
+    sources: 
+      src: "$PROJECT/resources/regions/LOLAEwS/{genome}/{collection}/{exp_protocol}/regions/{file_name}"
+      tgt: "$PROJECT/resources/regions/LOLAEwS/{genome}/bedmaker_output/{sample_name}.bed"
+  imply:
+    - if:
+        genome: [hg38, hg19]
+      then:
+        organism: human
+    - if:
+        genome: [mm10, mm9]
+      then:
+        organism: mouse
+    - if:
+        cell_type: A673
+      then:
+        tissue: muscle
+    - if:
+        cell_type: SK-N-MC
+      then:
+        tissue: brain
+    - if:
+        cell_type: [ES49, ES48]
+      then:
+        tissue: NA
+    - if:
+        cell_type: [TC32, EWS502, U2OS]
+      then:
+        tissue: bone
+    - if:
+        cell_type: IMR90
+      then:
+        tissue: lung
+    - if:
+        cell_type: C2C12
+      then:
+        tissue: myoblast
+    - if:
+        antibody: [H3K4me3, H3K27me3, H3K27ac, H3K9ac, H4K5ac, H3K4me, H3K36me3, H4K5ac, H3K9ac]
+      then:
+        narrowpeak: FALSE
